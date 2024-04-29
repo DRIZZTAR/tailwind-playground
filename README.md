@@ -42,7 +42,6 @@ Here's how you can integrate a basic button component:
 All components in this repository are free to use for personal and commercial purposes with attribution. If you use these components, please include a commented attribution in your project's code:
 
 ```html
-Copy code
 <!-- Component from Tailwind Playground by yourusername (https://github.com/DRIZZTAR/tailwind-playground) -->
 ```
 
