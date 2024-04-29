@@ -31,8 +31,8 @@ To use a component from this repository, copy the HTML of the desired component 
 Here's how you can integrate a basic button component:
 
 ```bash
-<div class="tailwind-button">
-  <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+<div className="tailwind-button">
+  <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
     Click me!
   </button>
 </div>
