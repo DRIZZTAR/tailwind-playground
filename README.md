@@ -17,11 +17,8 @@ To get started with Tailwind Playground, simply clone this repository or downloa
 git clone https://github.com/yourusername/tailwind-playground.git
 ```
 
-Navigate to the component you wish to use and integrate it into your project by copying the HTML structure. Ensure you have Tailwind CSS installed in your project:
-
-```bash
-npm install tailwindcss
-```
+## ✂️ ＆ 🔖 Copy and Paste... seriously
+Navigate to the component you wish to use and integrate it into your project by copying and pasting the component  wherever you would like!
 
 ## 📄 Usage
 
